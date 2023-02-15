@@ -1,0 +1,96 @@
+[
+  
+    {
+        "title": "Components",
+
+        "childrens": [
+            {
+                "title": "RAM",
+                "path": "/category/RAM"
+            },
+            {
+                "title": "CPU",
+                "path": "/category/CPU"
+            },
+            {
+                "title": "Hard Drives",
+                "path": "/category/Hard Drives"
+            },
+            {
+                "title": "Graphic Cards",
+                "path": "/category/Graphic Cards"
+            },
+            {
+                "title": "Motherboards",
+                "path": "/category/Motherboards"
+            },
+            {
+                "title": "Desktop Cases",
+                "path": "/casing"
+            },
+            {
+                "title": "Power Supplies",
+                "path": "/category/Power Supplies"
+            }
+        ]
+
+        
+    },
+    {
+         "title": "Devices",
+           "childrens": [
+            {
+                "title": "Desktops",
+                "path": "/category/Desktops"
+            },
+            {
+                "title": "Laptops",
+                "path": "/category/Laptops"
+            },
+            {
+                "title": "Consoles",
+                "path": "/category/Consoles"
+            }
+           ]
+
+    },
+    {
+         "title": "Accessories",
+           "childrens": [
+            {
+                "title": "Keyboards",
+                "path": "/category/Keyboards"
+            },
+            {
+                "title": "Mice",
+                "path": "/category/Mice"
+            },
+            {
+                "title": "Headsets",
+                "path": "/category/Headsets"
+            },
+            {
+                "title": "Monitors",
+                "path": "/category/Monitors"
+            }
+           ]
+
+    },
+    {
+         "title": "Other",
+           "childrens": [
+            {
+                "title": "Games",
+                "path": "/category/Games"
+            },
+            {
+                "title": "Other",
+                "path": "/category/Other"
+            }
+         
+           ]
+           
+           
+
+    }
+]
